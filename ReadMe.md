@@ -544,7 +544,7 @@ const secondPerson = { ...person, name: 'Josh' }
 
 [Top 10 ES6 Features Every Busy JavaScript Developer Must Know](https://webapplog.com/es6/) - A good breakdown of ES6 features
 
-[Template literals (Template strings) - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) - An INCREDIBLY important concept to understand. Worth your time to look at. Understanding string literals will make your life a LOT easier.
+[Template literals (Template strings) - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) - A very important concept to understand. Worth your time to look at. Understanding template string will make your life a LOT easier.
 
 [Array.prototype.map() - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) - Breakdown of .map
 
@@ -553,6 +553,8 @@ const secondPerson = { ...person, name: 'Josh' }
 [Array.prototype.filter() - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) - Breakdown of .filter
 
 [Array.prototype.reduce() - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) - Breakdown of .reduce. This is a VERY powerful array method and would be worth your time to practice using it for more than summing numbers.
+
+[const key word - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) (Links to an external site.)Links to an external site.
 
 [Spread syntax - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) - More information about spread.
 
